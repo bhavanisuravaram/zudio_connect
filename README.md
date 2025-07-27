@@ -90,27 +90,4 @@ markdown
 Copy code
 ![Home Page](https://link-to-your-image.com)
 ![Dashboard](https://link-to-your-image.com)
-🤝 Contributions
-Contributions are welcome! If you have ideas to improve ZUDIO Connect, feel free to:
-
-✅ Fork the repository
-
-✅ Submit a pull request
-
-✅ Report issues or suggest improvements via GitHub Issues
-
-📩 Contact & Feedback
-If you have any queries or suggestions, feel free to reach out!
-
-📧 Email: your.email@example.com
-
-🌐 LinkedIn: Bhavani Suravaram
-
-🐱 GitHub: @bhavanisuravaram
-
-🔗 License
-This project is open-source under the MIT License.
-
-💡 Thank you for visiting my project!
-
 
