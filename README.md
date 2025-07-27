@@ -7,7 +7,7 @@
 ## 🌐 Live Preview
 
 - 🔗 **Netlify Site**: [https://frolicking-bubblegum-83b6f6.netlify.app](https://frolicking-bubblegum-83b6f6.netlify.app)
-- 🎥 **Demo Video**: [Watch on YouTube](https://youtu.be/YOUR_DEMO_VIDEO_LINK)
+- 🎥 **Demo Video**: [Watch on YouTube](https://youtu.be/YOUR_DEMO_VIDEO_LINK) <!-- Replace with actual video link -->
 
 ---
 
@@ -43,25 +43,21 @@
 ```bash
 git clone https://github.com/bhavanisuravaram/zudio_connect.git
 cd zudio_connect
-
-📦 2. Frontend Setup
+##📦 2. Frontend Setup
 bash
-Copy
-Edit
+Copy code
 cd client  # or your frontend folder name
 npm install
 npm run dev
-🔧 3. Backend Setup (Optional)
+3. Backend Setup (Optional)
 bash
-Copy
-Edit
+Copy code
 cd server  # only if you have a backend
 npm install
 npm start
 📁 Folder Structure
 bash
-Copy
-Edit
+Copy code
 zudio_connect/
 ├── client/          # React frontend
 │   └── src/
@@ -75,12 +71,11 @@ zudio_connect/
 ├── .gitignore
 └── .env.example
 🔐 Environment Variables
-Create a .env file in your root directories (both frontend & backend if needed):
+Create a .env file in your root directories (frontend & backend if applicable):
 
 📄 .env.example
 env
-Copy
-Edit
+Copy code
 # Frontend
 VITE_API_BASE_URL=http://localhost:5000/api
 
@@ -88,25 +83,34 @@ VITE_API_BASE_URL=http://localhost:5000/api
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/zudioconnect
 JWT_SECRET=your_jwt_secret
+📸 Screenshots (Optional)
+You can add screenshots like:
 
+markdown
+Copy code
+![Home Page](https://link-to-your-image.com)
+![Dashboard](https://link-to-your-image.com)
+🤝 Contributions
+Contributions are welcome! If you have ideas to improve ZUDIO Connect, feel free to:
 
-###🤝 Contributions
-Contributions are welcome! If you have ideas to improve hand gestures, feel free to:
 ✅ Fork the repository
+
 ✅ Submit a pull request
-✅ Report issues or suggest improvements
 
-###📩 For queries, reach out via GitHub Issues! &&
-If you have any feedback or suggestions, feel free to reach out!
-📩 Email: your.email@example.com  
-🌐 LinkedIn: [Your Profile](https://www.linkedin.com/in/bhavani-suravaram/)  
-🐱 GitHub: [Your GitHub](https://github.com/bhavanisuravaram)
-###🔗 License
+✅ Report issues or suggest improvements via GitHub Issues
+
+📩 Contact & Feedback
+If you have any queries or suggestions, feel free to reach out!
+
+📧 Email: your.email@example.com
+
+🌐 LinkedIn: Bhavani Suravaram
+
+🐱 GitHub: @bhavanisuravaram
+
+🔗 License
 This project is open-source under the MIT License.
-💡 *Thank you for visiting my project*
 
-
-
-
+💡 Thank you for visiting my project!
 
 
