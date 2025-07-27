@@ -83,11 +83,23 @@ VITE_API_BASE_URL=http://localhost:5000/api
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/zudioconnect
 JWT_SECRET=your_jwt_secret
-📸 Screenshots (Optional)
-You can add screenshots like:
-
 markdown
 Copy code
 ![Home Page](https://link-to-your-image.com)
 ![Dashboard](https://link-to-your-image.com)
+
+---
+## 🤝 Contributions  
+Contributions are welcome! If you have ideas to improve cdoe quality, feel free to:  
+✅ **Fork the repository**  
+✅ **Submit a pull request**  
+✅ **Report issues or suggest improvements**  
+
+📩 For queries, reach out via GitHub Issues!  
+bhavanisuravaram@gmail.com
+
+### 🔗 License  
+This project is **open-source** under the **MIT License**.  
+
+---
 
