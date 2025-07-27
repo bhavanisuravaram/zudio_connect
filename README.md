@@ -106,8 +106,8 @@ JWT_SECRET=your_jwt_secret
 > _Add your images to show off the UI. You can host them on GitHub or an image platform._
 
 ```
-![Home Page](https://your-image-link.com/homepage.png)
-![Dashboard](https://your-image-link.com/dashboard.png)
+![Home Page](https://github.com/bhavanisuravaram/zudio_connect/tree/main/screenshots/student)
+![Dashboard](https://github.com/bhavanisuravaram/zudio_connect/tree/main/screenshots/admin)
 ```
 
 ---
