@@ -8,7 +8,7 @@
 ## 🌐 Live Demo
 
 - 🔗 **Website**: [ZUDIO Connect on Netlify](https://frolicking-bubblegum-83b6f6.netlify.app)
-- 🎥 **Demo Video**: [Watch on YouTube](https://your-demo-video-link.com) <!-- Replace with actual video link -->
+- 🎥 **Demo Video**: [Watch on](https://drive.google.com/file/d/1UkhdXKdXceoqp8-vK9usQDc5t97tLq-w/view?usp=drive_link) <!-- Replace with actual video link -->
 
 ---
 
@@ -126,8 +126,8 @@ Contributions are welcome! If you have ideas to improve the code or features, fe
 If you have any feedback or suggestions, feel free to reach out!
 
 📩 Email: your.email@example.com  
-🌐 LinkedIn: [Your Profile](https://www.linkedin.com/in/bhavani-suravaram/)  
-🐱 GitHub: [Your GitHub](https://github.com/bhavanisuravaram)
+🌐 LinkedIn: [ Profile](https://www.linkedin.com/in/bhavani-suravaram/)  
+🐱 GitHub: [ GitHub](https://github.com/bhavanisuravaram)
 
 ##📩 For queries, reach out via GitHub Issues!
 bhavanisuravaram@gmail.com
