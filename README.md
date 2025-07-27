@@ -91,25 +91,6 @@ JWT_SECRET=your_jwt_secret
 📸 Screenshots
 Add screenshots of the dashboard or features below:
 
-markdown
-Copy
-Edit
-![Landing Page](https://your-screenshot-link.com)
-![Dashboard](https://your-screenshot-link.com)
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to open an issue or submit a pull request.
 
-📜 License
-This project is licensed under the MIT License. See LICENSE for more information.
-
-👩‍💻 Author
-Made with ❤️ by Bhavani Suravaram
-
-💼 LinkedIn
-
-🧑‍💻 GitHub
-
-📧 Email: bhavanisuravaram@gmail.com
 
 
