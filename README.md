@@ -1,5 +1,5 @@
 
-# 🚀 ZUDIO Connect
+# 🚀 ZiDIO Connect
 
 **ZUDIO Connect** is a comprehensive internship and data analysis platform designed to help students easily explore, apply, and manage internships. It provides both students and administrators with a seamless experience through real-time dashboards, analytics, and efficient application tracking.
 
@@ -7,7 +7,7 @@
 
 ## 🌐 Live Demo
 
-- 🔗 **Website**: [ZUDIO Connect on Netlify](https://frolicking-bubblegum-83b6f6.netlify.app)
+- 🔗 **Website**: [ZiDIO Connect on Netlify](https://frolicking-bubblegum-83b6f6.netlify.app)
 - 🎥 **Demo Video**: [Watch on](https://drive.google.com/file/d/1UkhdXKdXceoqp8-vK9usQDc5t97tLq-w/view?usp=drive_link) <!-- Replace with actual video link -->
 
 ---
