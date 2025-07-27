@@ -43,18 +43,20 @@
 ```bash
 git clone https://github.com/bhavanisuravaram/zudio_connect.git
 cd zudio_connect
-##📦 2. Frontend Setup
+----
+📦 2. Frontend Setup
 bash
 Copy code
-cd client  # or your frontend folder name
+cd client  # or frontend folder
 npm install
 npm run dev
-3. Backend Setup (Optional)
+🛠️ 3. Backend Setup (Optional if using backend)
 bash
 Copy code
-cd server  # only if you have a backend
+cd server  # if backend is included
 npm install
 npm start
+
 📁 Folder Structure
 bash
 Copy code
@@ -89,17 +91,18 @@ Copy code
 ![Dashboard](https://link-to-your-image.com)
 
 ---
-## 🤝 Contributions  
-Contributions are welcome! If you have ideas to improve cdoe quality, feel free to:  
-✅ **Fork the repository**  
-✅ **Submit a pull request**  
-✅ **Report issues or suggest improvements**  
+🤝 Contributions
+Contributions are welcome!
+If you have ideas to improve the project or fix bugs:
 
-📩 For queries, reach out via GitHub Issues!  
-bhavanisuravaram@gmail.com
+✅ Fork the repository
 
-### 🔗 License  
-This project is **open-source** under the **MIT License**.  
+✅ Create a new branch
 
----
+✅ Submit a Pull Request
 
+✅ Open issues for enhancements
+
+📬 Contact
+Feel free to reach out via GitHub or email:
+📧 bhavanisuravaram@gmail.com
