@@ -88,8 +88,23 @@ VITE_API_BASE_URL=http://localhost:5000/api
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/zudioconnect
 JWT_SECRET=your_jwt_secret
-📸 Screenshots
-Add screenshots of the dashboard or features below:
+🤝 Contributions
+Contributions are welcome! If you have ideas to improve hand gestures, feel free to:
+✅ Fork the repository
+✅ Submit a pull request
+✅ Report issues or suggest improvements
+
+📩 For queries, reach out via GitHub Issues! &&
+If you have any feedback or suggestions, feel free to reach out!
+
+📩 Email: your.email@example.com  
+🌐 LinkedIn: [Your Profile](https://www.linkedin.com/in/bhavani-suravaram/)  
+🐱 GitHub: [Your GitHub](https://github.com/bhavanisuravaram)
+🔗 License
+This project is open-source under the MIT License.
+💡 *Thank you for visiting my project*
+
+
 
 
 
