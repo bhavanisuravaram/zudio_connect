@@ -125,7 +125,7 @@ Contributions are welcome! If you have ideas to improve the code or features, fe
 ## 📧 Contact Me
 If you have any feedback or suggestions, feel free to reach out!
 
-📩 Email: your.email@example.com  
+📩 Email:  bhavanisuravaram@gmail.com
 🌐 LinkedIn: [ Profile](https://www.linkedin.com/in/bhavani-suravaram/)  
 🐱 GitHub: [ GitHub](https://github.com/bhavanisuravaram)
 
